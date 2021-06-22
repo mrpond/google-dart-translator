@@ -1,5 +1,5 @@
 name: dart_translate
-version: 1.0.0
+version: 1.0.1
 description: Google translate
 homepage: https://github.com/mrpond/google-dart-translator
 environment:

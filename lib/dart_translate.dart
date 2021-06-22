@@ -28,6 +28,10 @@ class GoogleTranslate {
     //print("endIndex : $endIndex");
     return contents.substring(startIndex + DIV_RESULT.length, endIndex);
   }
+
+  void close() {
+    _client.close();
+  }
 }
 
 // CODE   LANGUAGE

@@ -1,6 +1,7 @@
 name: dart_translate
 version: 1.0.0
 description: Google translate
+homepage: https://github.com/mrpond/google-dart-translator
 environment:
   sdk: '>=2.12.0 <3.0.0'
 dependencies: 

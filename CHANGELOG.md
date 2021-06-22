@@ -1,4 +1,7 @@
 
+1.0.2
+add example.dart
+
 1.0.1
 add close();
 
